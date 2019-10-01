@@ -1,6 +1,4 @@
-# Example of Final Project
-
-### Final Project of Database Systems (2018 Spring)
+# Final Project of Database Systems (2018 Spring)
 
 ## Folder Structure
 ```
